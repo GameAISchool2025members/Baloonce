@@ -1,4 +1,4 @@
-# Baloonce fpr some reason!
+# Baloonce!
 
 Ready to test your communication skills and race against the clock? **Baloonce** is a vibrant two-player co-op game where you'll work together to place colorful balloons on their designated spots as fast as you can to snag a top spot on the leaderboard!
 
